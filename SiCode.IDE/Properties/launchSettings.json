@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "SiCode IDE (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SiCode IDE (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
